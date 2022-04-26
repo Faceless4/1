@@ -1,7 +1,6 @@
 import requests
 import json
 # import .config
-#token = '8hMu0eoCgqOH1OOz9tHACu7IMSqfH09G7JYVNcnRqZpiB1FBka1NvYj5Ex8cn5Gl'
 # make an http request to flespi
 # with authentification via flespi token
 # and return content
